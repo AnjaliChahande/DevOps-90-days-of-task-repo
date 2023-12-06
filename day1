@@ -4,3 +4,14 @@ command : pwd
 
 List all the files or directories including hidden files.
 command : ls -a 
+
+Create a nested directory A/B/C/D/E
+
+
+command : mkdir -p /A/B/C/D/E
+
+
+
+
+
+
