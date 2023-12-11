@@ -6,3 +6,7 @@ owner — The owner of the file or application.
 
 
 "chown" is used to change the ownership permission of a file or directory.
+
+group — The group that owns the file or application.
+
+"chgrp" is used to change the group permission of a file or directory.
