@@ -1,1 +1,8 @@
 File Permissions and Access Control Lists
+
+
+owner — The owner of the file or application.
+
+
+
+"chown" is used to change the ownership permission of a file or directory.
