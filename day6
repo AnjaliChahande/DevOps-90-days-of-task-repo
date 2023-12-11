@@ -15,3 +15,4 @@ group — The group that owns the file or application.
 others — All users with access to the system. (outised the users are in a group)
 
 "chmod" is used to change the other users permissions of a file or directory.
+
